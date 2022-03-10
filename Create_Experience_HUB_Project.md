@@ -2,7 +2,7 @@
 
 ## Create an activity on the intranet
 
-#### Experience
+#### Experience / HUB Project
 
 <br/>
 
@@ -27,7 +27,7 @@ Create an activity by clicking on the corresponding button.
 <br/>
 <br/>
 
-First choose the type of activity, here `Experience`.
+First choose the type of activity, here `Experience` or `Project`.
 
 Set `Number of sessions` to 1.
 
@@ -37,22 +37,22 @@ Select the `Start` and `End` date. Set the `End` date to a long date after the s
 
 **Do not** select the `Duration of the activity`.
 
-Select the Experience `Associated Project`.
+Select the Experience or HUB Project `Associated Project`.
 
 You can then choose the `End of registration` and `Due Date`.
 
-For an experience their is no `Associated time-slots` and `Mark Associated`.
+For an experience or a Project their is no `Associated time-slots` and `Mark Associated` checkbox.
 
 Then you must **NOT** select the location of your activity here.
 
-Check `Subscribe to planned activity ?` so the students can register themselves to the activity.
+Check `Subscribe to planned activity ?`.
 
 ![Setup Experience 1](Experience/Experience1.png)
 
 <br/>
 <br/>
 
-Set the title of your activity with the `[EXPERIENCE]` flag and then the title.
+Set the title of your activity with the `[EXPERIENCE]` of `[HUB PROJECT]` flag and then the title.
 
 Paste the activity's description.
 
@@ -99,3 +99,5 @@ Set the mark regarding the quality of the project.
 
 <br/>
 <br/>
+
+For a HUB Project the `Start` and `End` must be set regarding the evaluation from Epitech National
