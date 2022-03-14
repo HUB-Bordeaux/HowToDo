@@ -8,7 +8,7 @@ To set the registration of students on an activity go to the related activity on
 
 Then click on `View Registered Students`
 
-![Registration](Registration/Office360.png)
+![Registration](img/Registration/Office360.png)
 
 <br/>
 <br/>
@@ -18,7 +18,7 @@ Tips: You can select multiple students at once.
 
 Then click `Apply` to validate the changes.
 
-![Registration](Registration/Office360.png)
+![Registration](img/Registration/Office360.png)
 
 <br/>
 <br/>

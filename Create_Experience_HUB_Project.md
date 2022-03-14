@@ -8,21 +8,21 @@
 
 In order to create a new activity on the Epitech intranet go [here](https://intra.epitech.eu/) and login with your office 360 account.
 
-![Office 360 Connection](Connection/Office360.png)
+![Office 360 Connection](img/Connection/Office360.png)
 
 <br/>
 <br/>
 
 Then go to Units -> B0-HUB (1) on semester 0.
 
-![Module HUB](Connection/ModuleHUB.png)
+![Module HUB](img/Connection/ModuleHUB.png)
 
 <br/>
 <br/>
 
 Create an activity by clicking on the corresponding button.
 
-![Create Activity](Connection/CreateActivity.png)
+![Create Activity](img/Connection/CreateActivity.png)
 
 <br/>
 <br/>
@@ -47,7 +47,7 @@ Then you must **NOT** select the location of your activity here.
 
 Check `Subscribe to planned activity ?`.
 
-![Setup Experience 1](Experience/Experience1.png)
+![Setup Experience 1](img/Experience_HUB_Project/Experience1.png)
 
 <br/>
 <br/>
@@ -60,42 +60,42 @@ Do not change the `Number of activities`.
 
 `Save and Exit`
 
-![Setup Experience 2](Experience/Experience2.png)
+![Setup Experience 2](img/Experience_HUB_Project/Experience2.png)
 
 <br/>
 <br/>
 
 Then you must create the sessions by clicking on `View Project Details`.
 
-![Plan project](Experience/Project.png)
+![Plan project](img/Experience_HUB_Project/Project.png)
 
 <br/>
 <br/>
 
 `Forced registration` the student.
 
-![Plan project](Experience/Register.png)
+![Plan project](img/Experience_HUB_Project/Register.png)
 
 <br/>
 <br/>
 
 Fill every fields corresponding to the student and `Apply`.
 
-![Plan project](Experience/Student.png)
+![Plan project](img/Experience_HUB_Project/Student.png)
 
 <br/>
 <br/>
 
 When the review is done click on `Mark`.
 
-![Plan project](Experience/Mark.png)
+![Plan project](img/Experience_HUB_Project/Mark.png)
 
 <br/>
 <br/>
 
 Set the mark regarding the quality of the project.
 
-![Plan project](Experience/SetMark.png)
+![Plan project](img/Experience_HUB_Project/SetMark.png)
 
 <br/>
 <br/>

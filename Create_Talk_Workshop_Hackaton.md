@@ -8,21 +8,21 @@
 
 In order to create a new activity on the Epitech intranet go [here](https://intra.epitech.eu/) and login with your office 360 account.
 
-![Office 360 Connection](Connection/Office360.png)
+![Office 360 Connection](img/Connection/Office360.png)
 
 <br/>
 <br/>
 
 Then go to Units -> B0-HUB (1) on semester 0.
 
-![Module HUB](Connection/ModuleHUB.png)
+![Module HUB](img/Connection/ModuleHUB.png)
 
 <br/>
 <br/>
 
 Create an activity by clicking on the corresponding button.
 
-![Create Activity](Connection/CreateActivity.png)
+![Create Activity](img/Connection/CreateActivity.png)
 
 <br/>
 <br/>
@@ -39,7 +39,7 @@ Select the `Duration of the activity`.
 
 For Talk/Workshop/Hackaton their is no `Associated Project`, `Associated time-slots` and `Mark Associated`.
 
-![Setup Activity 1](Talk_Workshop_Hackaton/Activity1.png)
+![Setup Activity 1](img/Talk_Workshop_Hackaton/Activity1.png)
 
 <br/>
 <br/>
@@ -48,7 +48,7 @@ Then you must **NOT** select the location of your activity here.
 
 Check `Subscribe to planned activity ?` so the students can register themselves to the activity.
 
-![Setup Activity 2](Talk_Workshop_Hackaton/Activity2.png)
+![Setup Activity 2](img/Talk_Workshop_Hackaton/Activity2.png)
 
 <br/>
 <br/>
@@ -62,14 +62,14 @@ Do not change the `Number of activities`.
 
 `Save and Exit`
 
-![Setup Activity 3](Talk_Workshop_Hackaton/Activity3.png)
+![Setup Activity 3](img/Talk_Workshop_Hackaton/Activity3.png)
 
 <br/>
 <br/>
 
 Then you must create the sessions by clicking on `Plan Session`
 
-![Plan Session](Talk_Workshop_Hackaton/PlanSession.png)
+![Plan Session](img/Talk_Workshop_Hackaton/PlanSession.png)
 
 <br/>
 <br/>
@@ -83,7 +83,7 @@ Then select the `Location`.
 
 `Plan`
 
-![Plan Session](Talk_Workshop_Hackaton/Session.png)
+![Plan Session](img/Talk_Workshop_Hackaton/Session.png)
 
 <br/>
 <br/>
@@ -91,7 +91,7 @@ Then select the `Location`.
 Finally, set a trainer to the activity so he can receive his XPs.
 For this, click on the pencil on the right and go to `Trainers`.
 
-![Trainer](Talk_Workshop_Hackaton/SetTrainer.png)
+![Trainer](img/Talk_Workshop_Hackaton/SetTrainer.png)
 
 <br/>
 <br/>
@@ -99,7 +99,7 @@ For this, click on the pencil on the right and go to `Trainers`.
 Search the trainers on the searchbar on top and click on the right pointing arrow.
 Then `OK`.
 
-![Setup Trainer](Talk_Workshop_Hackaton/Trainer.png)
+![Setup Trainer](img/Talk_Workshop_Hackaton/Trainer.png)
 
 <br/>
 <br/>
