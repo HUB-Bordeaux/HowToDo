@@ -6,12 +6,12 @@
 
 ## Create Talks, workshops and hackatons
 
-[Talks/Workshops/Hackatons tuto](Create_Talk_Workshops_Hackatons.md)
+[Talks/Workshops/Hackatons tuto](Create_Talk_Workshop_Hackaton.md)
 
 ## Create Experiences and HUB projects
 
-[Experiences/Projets HUB tuto](Create_Experiences_HUB_Project.md)
+[Experiences/Projets HUB tuto](Create_Experience_HUB_Project.md)
 
 ## How to do registrations
 
-[Registrations tuto](Registrations.md)
+[Registrations tuto](Registration.md)
