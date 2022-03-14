@@ -2,7 +2,7 @@
 
 ## Arcade
 
-![Arcade tuto](Arcade.md)
+[Arcade tuto](Arcade.md)
 
 ## Create Talks, workshops and hackatons
 
