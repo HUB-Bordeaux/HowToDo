@@ -24,4 +24,7 @@ About creating text shapes [here](https://www.youtube.com/watch?v=bnl5oqtk_SY) i
 <br/>
 
 In general, this youtube channel posts good tutorials.
+
+<br/>
+
 ![Crea Din 3D Logo](img/Modelization/CreaDin3D.png)
