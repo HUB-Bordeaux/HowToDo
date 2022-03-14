@@ -7,6 +7,10 @@
 <br/>
 
 ![Fusion 360 Logo](img/Modelization/FusionLogo.png)
+
+<br/>
+<br/>
+
 First of all, you need to download the application `Fusion 360`.
 The app is paid so you must downloadit following [this tutorial](https://www.youtube.com/watch?v=CMw-iH8DXPc).
 
