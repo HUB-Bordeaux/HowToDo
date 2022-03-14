@@ -18,7 +18,7 @@ Then for some basics you can check [this video](https://www.youtube.com/watch?v=
 <br/>
 <br/>
 
-About creating text shapes [here](https://www.youtube.com/watch?v=bnl5oqtk_SY) is a cool video too.
+About creating text shapes [here](https://www.youtube.com/watch?v=3ZwX7dRu3xI) is a cool video too.
 
 <br/>
 <br/>
