@@ -12,8 +12,6 @@ In order to start the VR system, you first need to plug in the USB C cable to th
 On the computer start the Oculus and Steam apps.
 Launch Steam VR.
 
-![Steam logo](img/VR/steam_logo.png)
-
 Then start the VR headset and select the profile "Hub Bordeaux".
 
 ![Oculus Profile](img/VR/profile.png)
