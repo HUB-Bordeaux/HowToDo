@@ -1,29 +1,29 @@
 # Tutorials HUB Bordeaux
 
-## How to use the **ARCADE**
+## How to use the **arcade**
 
-[Arcade tuto](Arcade.md)
-
-<br/>
-
-## How to create **TALKS**, **WORKSHOPS** and **HACKATONS**
-
-[Talks/Workshops/Hackatons tuto](Create_Talk_Workshop_Hackaton.md)
+[Arcade Tutorial](Arcade.md)
 
 <br/>
 
-## How to create **EXPERIENCES** and **HUB PROJECTS**
+## How to create **talks**, **workshops** and **hackatons**
 
-[Experiences/Projets HUB tuto](Create_Experience_HUB_Project.md)
-
-<br/>
-
-## How to do **REGISTRATIONS**
-
-[Registrations tuto](Registration.md)
+[Talks/Workshops/Hackatons Tutorial](Create_Talk_Workshop_Hackaton.md)
 
 <br/>
 
-## How to use the **VIRTUAL REALITY**
+## How to create **experiences** and **HUB projects**
 
-[Registrations tuto](Virtual_Reality.md)
+[Experiences/Projets HUB Tutorial](Create_Experience_HUB_Project.md)
+
+<br/>
+
+## How to do **registrations**
+
+[Registrations Tutorial](Registration.md)
+
+<br/>
+
+## How to use the **virtual reality**
+
+[Virtual Reality Tutorial](Virtual_Reality.md)
