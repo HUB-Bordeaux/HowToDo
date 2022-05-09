@@ -24,13 +24,15 @@ Open your `.stl` file and make sure in the specification of your project :
 
 Then slice your project to create the data of the printing.
 
+**MAKE SURE TO CLEAN THE PLATE WITH ALCOHOL BEFORE EVERY PRINT TO AVOID ANY TAKE-OFF**
+
 ![slicer](img/3D_Printing/slice.png)
 
 <br/>
 
 You can start a print by 3 methods.
 
-- With a USB key. **Never do that or it will segfault during the print**.
+- With a USB key. **Never do that or it will crash during the print**.
 
 - With a SD Card. This is a good way to print but it make you use the screen of the printer.
 
