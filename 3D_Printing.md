@@ -14,9 +14,9 @@ In order to print print an object with the **Artillery Sidewinder x2**, first op
 
 Open your `.stl` file and make sure in the specification of your project :
 
-    - The material is correctfully set to *Gyroid*.
-    - The temperature of the nozzle is suitable to the wire. It should never be more than 220°C.
-    - The temperature of the plate is suitable to the wire. It should never be more than 60°C.
+- The material is correctfully set to *Gyroid*.
+- The temperature of the nozzle is suitable to the wire. It should never be more than 220°C.
+- The temperature of the plate is suitable to the wire. It should never be more than 60°C.
 
 ![printing settings](img/3D_Printing/settings.png)
 
